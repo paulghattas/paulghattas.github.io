@@ -1,0 +1,180 @@
+{
+    "basics": {
+        "name": "Paul Ghattas",
+        "website": "http://paulghattas.github.io",
+        "picture": "./headshot-box.jpg",
+        "location": {
+            "countryCode": "CA",
+            "region": "Toronto"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "paulghattas",
+                "url": "http://github.com/paulghattas"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "Paul E. Ghattas",
+                "url": "https://www.linkedin.com/in/paulghattas"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Red Hat",
+            "location": "Toronto, Canada",
+            "position": "Principal Technical Marketing Manager | Cloud Platforms",
+            "website": "http://redhat.com",
+            "startDate": "2019-01-28",
+            "summary": "Technical strategy and direction for ISV partners in the OpenShift ecosystem",
+            "highlights": [
+                "Participate in technical aspects of go to market engagements like roadshows, workshops, webinars, demos of offerings and solutions, industry and partner events, and sales enablement and training", "Collaborate with sales teams where required in high-touch accounts worldwide through close engagement with field sales and services","Create technical marketing collateral (internal and external) with cloud infrastructure marketing teams", "Guide technical expertise and vision across public domains, including blogs, web, social media, and other outbound marketing activities", "Work with alliance and ecosystem partners through the alliance teams to develop joint value propositions", "Create other technical marketing proof points while working with other teams that are specific to performance benchmarks, reference architectures, etc.."
+            ]
+        },
+        {
+            "company": "Citrix Systems Inc.",
+            "location": "San Francisco Bay Area, United States",
+            "position": "Field Sales Engineer II | Cloud Networking",
+            "website": "http://citrix.com",
+            "startDate": "2016-04-01",
+            "endDate": "2019-01-09",
+            "summary": "Responsible for the technical relationships with customers and prospects:",
+            "highlights": [
+                "Identify and match technology opportunities with our customers’ business needs","Drive sales through technical expertise, account management skills, sales ability and superior customer focus", "Develop business value propositions around Citrix Cloud Networking products and solutions and participate as part of a sales team to achieve or exceed revenue targets", "Lead technical enablement activities with our Partners"
+                           ]
+        },
+        {
+            "company": "Citrix Systems Inc.",
+            "position": "Technology Specialist | Cloud Networking",
+            "location": "Montreal, Canada",
+            "website": "http://citrix.com",
+            "startDate": "2015-08-01",
+            "endDate": "2016-04-01",
+            "summary": "Enable SE and partners technical staff on Citrix solutions – this could involve a mix of web-based (virtual), face-face, recorded delivery mechanisms and the development and delivery of training labs and training related to new releases:",
+            "highlights": [
+                "Designed the architecture for the v2 iteration, expanding the RPM-centric capabilities of the initial version into a framework for supporting arbitrary types of content. This capability extends to both the admin client, allowing content type contributors to augment the client to support their particular needs, as well as the consumer agent, allowing custom management of consumer-side inventory of the given content type.",
+                "Organize and contribute to Advance Training Labs – product specific annual PM/Engineering/SE face to face knowledge transfer sessions","Provide technical product enablement for new releases through a mix of presentations, virtual/physical training sessions, labs and guides", "Work with WW teams to develop appropriate enablement materials for product releases","Work with World Wide Technical Readiness and other cross-functional teams to develop and refine training materials and their presentation", "Assist in knowledge transfer sessions and monitor feedback for quality assurance","Serve as Readiness liaison in meetings with Product Groups, representing the needs of the field and channel teams’ product enablement", "Perform and communicate technical and business research in support of Sales organization", "Coordinate technical communications for the Americas SE, Consulting, and Partner teams"
+            ]
+        },
+        {
+            "company": "Citrix Systems Inc.",
+            "position": "Inside Sales Engineer | Cloud Networking",
+            "location": "Fort Lauderdale, United States",
+            "website": "http://citrix.com",
+            "startDate": "2015-01-01",
+            "endDate": "2015-08-01",
+            "summary": "Responsible for the technical relationships with customers and prospects:",
+            "highlights": [
+                "Identify and match technology opportunities with our customers’ business needs",
+                "Drive sales through technical expertise, account management skills, sales ability and superior customer focus",
+                "Develop business value propositions around Citrix Cloud Networking products and solutions and participate as part of a sales team to achieve or exceed revenue targets",
+                "Lead technical enablement activities with our Partners"
+            ]               
+        },
+        {
+            "company": "Citrix Systems Inc.",
+            "position": "Technical Analyst | Virtualization & Cloud Networking",
+            "location": "Fort Lauderdale, United States",
+            "website": "http://citrix.com",
+            "startDate": "2014-08-01",
+            "endDate": "2015-01-01",
+            "summary": "Master core Citrix products and key technical concepts around desktop and server virtualization, cloud computing, server-based computing, and network/systems architectures",
+            "highlights": [
+                "Leadership Development Rotations Program: ",
+                "Establish consultant-client relationships while engaged on customer facing as well as internal projects",
+                "Rotations Program:",
+                "Networking Product Management Rotation",
+                "Networking Sales Engineering Rotation",
+                "Technical Readiness Cloud Networking Rotation"
+            ]
+        },
+        {
+            "company": "Pratt & Whitney Canada (Intern)",
+            "position": "Strategic Planning and Business Development",
+            "location": "Montreal, Canada",
+            "website": "https://www.pw.utc.com/",
+            "startDate": "2014-01-01",
+            "endDate": "2014-05-29",
+            "summary": "Generated and drived new business ideas up to a gate through competitive analysis and market evaluation"
+
+        },
+        {
+            "company": "Rolls Royce Canada – Energy Group (Intern)",
+            "position": "R&D, R&T Process Improvement Engineer",
+            "location": "Montreal, Canada",
+            "website": "https://www.rolls-royce.com/",
+            "startDate": "2013-05-01",
+            "endDate": "2013-09-01",
+            "summary": "Collected and analyzed historical data on the development program estimating process"
+        
+        },
+        {
+            "company": "Bombardier Aerospace (Intern)",
+            "position": "Project Engineer/Business Aircraft Program",
+            "location": "Montreal, Canada",
+            "website": "https://www.bombardier.com/en/aerospace.html",
+            "startDate": "2012-05-01",
+            "endDate": "2012-09-01",
+            "summary": "Assured sign-off of work package Deliverables/Production Drawings and maintained control in accordance with program milestone"
+        
+        }
+    ],
+    "education": [
+        {
+            "institution": "McGill University",
+            "area": "Mechanical Engineering",
+            "studyType": "B.Eng",
+            "startDate": "2009-09-01",
+            "endDate": "2014-04-31"
+        }
+    
+    ],
+    "certifications": [
+        {
+            "name": "Microsoft",
+            "publisher": "Red Hat",
+            "website": "https://blog.openshift.com/author/jdobiesredhat-com/",
+            "summary": "A variety of blog posts related to the OpenShift product and its ecosystem."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming (Professional)",
+            "keywords": [
+                "Python",
+                "Java",
+                "Javascript",
+                "Django",
+                "Node.js",
+                "React"
+            ]
+        },
+        {
+            "name": "Programming (Academic/Hobby)",
+            "keywords": [
+                "Ruby",
+                "Bash",
+                "PHP"
+            ]
+        },
+        {
+            "name": "Containers & Virtualization",
+            "keywords": [
+                "OpenShift",
+                "Kubernetes",
+                "Docker",
+                "AWS",
+                "OpenStack"
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "keywords": [
+                "Red Hat Enterprise Linux",
+                "Fedora",
+                "macOS"
+            ]
+        }
+    ]
+}
