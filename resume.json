@@ -132,10 +132,12 @@
     ],
     "certifications": [
         {
-            "name": "Microsoft",
-            "publisher": "Red Hat",
-            "website": "https://blog.openshift.com/author/jdobiesredhat-com/",
-            "summary": "A variety of blog posts related to the OpenShift product and its ecosystem."
+            "name": "Microsoft Certifications",
+            "publisher": "Microsoft",
+            "summary": ["Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure — Certified 2016","Microsoft® Certified Solutions Associate: Windows Server 2008","Microsoft® Certified Solutions Associate: Windows Server 2012"
+            ]
+
+          
         }
     ],
     "skills": [
